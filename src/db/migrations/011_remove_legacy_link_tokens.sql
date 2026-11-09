@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS fivem_link_tokens CASCADE;
+DROP TABLE IF EXISTS link_codes CASCADE;
